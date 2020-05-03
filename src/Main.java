@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         int balance = 100;
-        int payed = 1060;
+        int payed = 1100;
         int bonus;
-        if (payed>=200) {
+        if (payed >= 101) {
             bonus = payed / 100;
         } else {
             bonus = 0;
