@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int balance = 100;
-        int payed = 1060;
+        int payed = 1100;
         int bonus;
         if (payed>=200) {
             bonus = payed / 100;
